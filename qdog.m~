@@ -14,4 +14,4 @@ for i=1:30
     yy(i)=l(4*i)+(ff/2-ff*randn);
     i=i+1;
 end
-plot(xx,yy,'r*-');
+plot(xx,yy,'r');
